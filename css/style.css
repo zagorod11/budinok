@@ -68,16 +68,19 @@ body{
 
 }
 .el6{
-	position: absolute;
+/* 	position: absolute;
 	left: 660px;
 	top:  -120px;
 	border-left: 270px solid transparent;
 	border-right: 310px solid transparent;
-	border-bottom: 120px solid #9E967F;
-	/*width: 500px;
-	height: 100px;*/
-	/*background-color: #330505;*/
-	/*background: linear-gradient(0deg,  #444, #330505);*/
+	border-bottom: 120px solid #9E967F; */
+	position: absolute;
+	left: 36%;
+	top:  6%;
+	width: 534px;
+	height: 100px;
+	background-color: #330505;
+	background: linear-gradient(0deg,  #444, #330505);
 	 
 }
 .el31{
