@@ -1,0 +1,144 @@
+body{
+	height: 100vh;
+	background-image: url(https://look.com.ua/pic/201408/1920x1080/look.com.ua-109938.jpg);
+	background-size: cover;
+	background-position: 0 0;
+
+	
+}
+
+.container{
+	filter: blur(0.7px);	
+	 width: 500px;
+	 height: 400px;
+	 border: 1px solid red;
+	 margin: 150px auto;
+	 position: relative;
+	 background: linear-gradient(15deg, #E3410A,#F2A205);
+	 /*background-color: #99E7DB;*/
+	 box-shadow: 4px 2px 10px 2px ;
+}
+
+.el2{
+	width: 100px;
+	height: 200px;
+	background-color: #330505;
+	bottom:  0px;
+	right: 40px;
+	position: absolute;
+}
+.el3{
+	position: relative;
+	width: 70px;
+	height: 100px;
+	background-color: #2E3A58;
+	bottom:  60%;
+	left: 50px;
+	position: absolute;
+}
+ .ruch{
+	width: 20px;
+	height: 20px;
+	background-color: #62BEDC;
+	bottom:  90px;
+	right: 10px;
+	position: absolute;
+	border-radius: 50%;
+}
+.el4{
+	position: relative;
+	width: 70px;
+	height: 100px;
+	background-color: #2E3A58;
+	bottom:  60%;
+	right:  80px;
+	position: absolute;
+}
+.el5{
+	width: 70px;
+	height: 100px;
+	background: linear-gradient(45deg, yellow, #C5DDE8);
+	bottom:  20%;
+	left:  50px;
+	border: 1px solid #330505;
+	position: absolute;
+}
+.cont{
+	position: relative;
+
+}
+.el6{
+	position: absolute;
+	left: 660px;
+	top:  -120px;
+	border-left: 270px solid transparent;
+	border-right: 310px solid transparent;
+	border-bottom: 120px solid #9E967F;
+	/*width: 500px;
+	height: 100px;*/
+	/*background-color: #330505;*/
+	/*background: linear-gradient(0deg,  #444, #330505);*/
+	 
+}
+.el31{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	top: 29px;
+
+}
+.el32{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	/*left: 3px;*/
+	transform:rotate(90deg);
+	top: 65px;
+
+}
+.el41{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	top: 29px;
+
+}
+.el42{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	/*left: 3px;*/
+	transform:rotate(90deg);
+	top: 65px;
+
+}
+.el51{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	top: 29px;
+	background-color: #000;
+
+}
+.el52{
+	position: absolute;
+	width: 68px;
+	height: 1px;
+	background-color: #fff;
+	z-index: 6;
+	/*left: 3px;*/
+	transform:rotate(90deg);
+	top: 65px;
+	background-color: #000;
+
+}
