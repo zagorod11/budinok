@@ -75,8 +75,8 @@ body{
 	border-right: 310px solid transparent;
 	border-bottom: 120px solid #9E967F; */
 	position: absolute;
-	left: 36%;
-	top:  6%;
+	left: -3%;
+	top:  -100px;
 	width: 534px;
 	height: 100px;
 	background-color: #330505;
